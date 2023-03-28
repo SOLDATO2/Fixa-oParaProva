@@ -1,0 +1,7 @@
+Soma Grupo A: 174
+Soma Grupo B: 184
+Soma Grupo C: 25
+Soma Grupo D: 59
+Soma Grupo E: 42
+Soma Grupo F: 200
+Soma total: 684

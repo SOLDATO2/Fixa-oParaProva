@@ -1,0 +1,6 @@
+Quantidade de alunos na turma: 70
+Quantidade de alunos APROVADOS: 39
+Quantidade de alunos REPROVADOS: 31
+MENOR nota da turma: 0,00
+MAIOR nota da turma: 10,00
+media da turma: 5,62
